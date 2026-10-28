@@ -1,4 +1,4 @@
-# 0xForge
+# noxrae0x
 
 Live portfolio dashboard for a team of four trading agents.
 
